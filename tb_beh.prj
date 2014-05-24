@@ -1,0 +1,3 @@
+vhdl work "lpmultiplier.vhd"
+vhdl work "fir.vhd"
+vhdl work "tb.vhd"

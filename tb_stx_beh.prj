@@ -1,0 +1,3 @@
+vhdl isim_temp "lpmultiplier.vhd"
+vhdl isim_temp "fir.vhd"
+vhdl isim_temp "tb.vhd"
